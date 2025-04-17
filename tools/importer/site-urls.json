@@ -1,0 +1,129 @@
+{
+  "originUrl": "https://www.stantec.com",
+  "lastCrawled": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+  "urls": [
+    {
+      "url": "https://www.stantec.com/en/people/a/alexander-matt",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/taoiseach-opens-ryan-hanley-stantec-dublin-office",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/vito-culmone-join-stantec-chief-financial-officer",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
