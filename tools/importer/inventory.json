@@ -1,0 +1,2168 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+          "urlHash": "02c5c5424c3ed63ba0bc114cbecd2363ea4731e6",
+          "uuid": "02c5c542-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+          "urlHash": "13e4e1cce9d8f73107aebb1997e17d89b43a2c17",
+          "uuid": "13e4e1cc-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+          "urlHash": "3c67aa1650f1defd24b85b4c558de520c4f482e5",
+          "uuid": "3c67aa16-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+          "urlHash": "3f778cb736e940759e65326d3d7940e32bef2874",
+          "uuid": "3f778cb7-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/taoiseach-opens-ryan-hanley-stantec-dublin-office",
+          "urlHash": "437103847182c78bd8cd5c18fec32230c8583e96",
+          "uuid": "43710384-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexander-matt",
+          "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+          "uuid": "4cf6e8f3-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+          "urlHash": "4f0ec1d3da5e92c89ab4f31b63fe8fb11432eaec",
+          "uuid": "4f0ec1d3-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+          "urlHash": "6a8b094450f347fa0de493ffc2ed9bed93fb2042",
+          "uuid": "6a8b0944-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vito-culmone-join-stantec-chief-financial-officer",
+          "urlHash": "c8ea2c8eeb3123810fba4a84ac9ad75b3bc6477f",
+          "uuid": "c8ea2c8e-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+          "urlHash": "02c5c5424c3ed63ba0bc114cbecd2363ea4731e6",
+          "uuid": "02c5c542-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+          "urlHash": "13e4e1cce9d8f73107aebb1997e17d89b43a2c17",
+          "uuid": "13e4e1cc-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+          "urlHash": "3c67aa1650f1defd24b85b4c558de520c4f482e5",
+          "uuid": "3c67aa16-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-09-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+          "urlHash": "3f778cb736e940759e65326d3d7940e32bef2874",
+          "uuid": "3f778cb7-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-11-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/taoiseach-opens-ryan-hanley-stantec-dublin-office",
+          "urlHash": "437103847182c78bd8cd5c18fec32230c8583e96",
+          "uuid": "43710384-02-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-25-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexander-matt",
+          "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+          "uuid": "4cf6e8f3-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+          "urlHash": "4f0ec1d3da5e92c89ab4f31b63fe8fb11432eaec",
+          "uuid": "4f0ec1d3-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+          "urlHash": "6a8b094450f347fa0de493ffc2ed9bed93fb2042",
+          "uuid": "6a8b0944-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-11-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-18-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vito-culmone-join-stantec-chief-financial-officer",
+          "urlHash": "c8ea2c8eeb3123810fba4a84ac9ad75b3bc6477f",
+          "uuid": "c8ea2c8e-02-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-15-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Embed (video)",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-20-2d15b5793015e2ed305db6046320baaa1a9a343e",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[9]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-21-32e9319b4a597f535a7b7732e39a23fdbb0252bd",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[10]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-22-9be2b5f03b4477c34ac673069e5b6b5f846f6431",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[11]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-23-cc8780d857415a7a0da54d931cc060ceb458bd57",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[12]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+          "urlHash": "3f778cb736e940759e65326d3d7940e32bef2874",
+          "uuid": "3f778cb7-02-ac4741031ec74aae7e4e1e3b0e581bc842a34894",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+          "urlHash": "4f0ec1d3da5e92c89ab4f31b63fe8fb11432eaec",
+          "uuid": "4f0ec1d3-02-ac4741031ec74aae7e4e1e3b0e581bc842a34894",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+          "urlHash": "6a8b094450f347fa0de493ffc2ed9bed93fb2042",
+          "uuid": "6a8b0944-02-ac4741031ec74aae7e4e1e3b0e581bc842a34894",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-01-55899d3fb3c3b8cff0f903240dc1f68b95ae5d0d",
+          "xpath": "/html[1]/body[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-01-55899d3fb3c3b8cff0f903240dc1f68b95ae5d0d",
+          "xpath": "/html[1]/body[1]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-02-adc147034c5341d97a7e81edc245c70a4bfe17ea",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-02-adc147034c5341d97a7e81edc245c70a4bfe17ea",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+          "urlHash": "13e4e1cce9d8f73107aebb1997e17d89b43a2c17",
+          "uuid": "13e4e1cc-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+          "urlHash": "3c67aa1650f1defd24b85b4c558de520c4f482e5",
+          "uuid": "3c67aa16-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-09-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+          "urlHash": "3f778cb736e940759e65326d3d7940e32bef2874",
+          "uuid": "3f778cb7-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-11-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/taoiseach-opens-ryan-hanley-stantec-dublin-office",
+          "urlHash": "437103847182c78bd8cd5c18fec32230c8583e96",
+          "uuid": "43710384-02-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-25-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexander-matt",
+          "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+          "uuid": "4cf6e8f3-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+          "urlHash": "4f0ec1d3da5e92c89ab4f31b63fe8fb11432eaec",
+          "uuid": "4f0ec1d3-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+          "urlHash": "6a8b094450f347fa0de493ffc2ed9bed93fb2042",
+          "uuid": "6a8b0944-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-11-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-18-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-08-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vito-culmone-join-stantec-chief-financial-officer",
+          "urlHash": "c8ea2c8eeb3123810fba4a84ac9ad75b3bc6477f",
+          "uuid": "c8ea2c8e-02-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-15-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-05-74883989c40cc5f105f068790205b688652d8530",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-13-a93975ca973690dcda7f70ab6a7175b1ff7cbcc4",
+          "xpath": "/html[1]/body[1]/section[1]/div[11]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-02-479844269bdb80690ddaad44feb52bbc6c6c6c7b",
+          "xpath": "/html[1]/body[1]/div[4]/section[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexander-matt",
+          "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+          "uuid": "4cf6e8f3-02-479844269bdb80690ddaad44feb52bbc6c6c6c7b",
+          "xpath": "/html[1]/body[1]/div[4]/section[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-02-479844269bdb80690ddaad44feb52bbc6c6c6c7b",
+          "xpath": "/html[1]/body[1]/div[4]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-07-febac992264276b60c30fb522bf7cbdc48b98cb8",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-08-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-08-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-09-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-24-3d7bd576f5b4cd7f431627c36b71e03a97849fde",
+          "xpath": "/html[1]/body[1]/section[1]/div[11]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-10-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-17-134c69a6932bb8b0f6db163cac8b440bfabc3bfa",
+          "xpath": "/html[1]/body[1]/section[1]/div[13]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-09-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-14-ad1d0f6bfa4f22060b389764266f01916f01aca6",
+          "xpath": "/html[1]/body[1]/section[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-09-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-09-d66370d8f51a2c17d93fa76c3ebb5d38bd1a3103",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-03-c6f42691f52e10b47eadac26f7b0d88e0fe08a79",
+          "xpath": "/html[1]/body[1]/section[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-03-c6f42691f52e10b47eadac26f7b0d88e0fe08a79",
+          "xpath": "/html[1]/body[1]/section[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-06-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-06-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-07-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-08-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-07-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-07-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-07-ee25131ed9c6ebafc8b98840c084193770846147",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-07-3a587703aa95f476f5d472afcf66a04e61a7cc24",
+          "xpath": "/html[1]/body[1]/section[1]/div[6]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-09-934500536b6d8b00850fbec0ae13f0cdbc43097f",
+          "xpath": "/html[1]/body[1]/section[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-07-febac992264276b60c30fb522bf7cbdc48b98cb8",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-07-febac992264276b60c30fb522bf7cbdc48b98cb8",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-04-e80658c0ea51557018f42aca30c6baaad970c19b",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+          "urlHash": "13e4e1cce9d8f73107aebb1997e17d89b43a2c17",
+          "uuid": "13e4e1cc-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+          "urlHash": "3c67aa1650f1defd24b85b4c558de520c4f482e5",
+          "uuid": "3c67aa16-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+          "urlHash": "3f778cb736e940759e65326d3d7940e32bef2874",
+          "uuid": "3f778cb7-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/taoiseach-opens-ryan-hanley-stantec-dublin-office",
+          "urlHash": "437103847182c78bd8cd5c18fec32230c8583e96",
+          "uuid": "43710384-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alexander-matt",
+          "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+          "uuid": "4cf6e8f3-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+          "urlHash": "4f0ec1d3da5e92c89ab4f31b63fe8fb11432eaec",
+          "uuid": "4f0ec1d3-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+          "urlHash": "6a8b094450f347fa0de493ffc2ed9bed93fb2042",
+          "uuid": "6a8b0944-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/news/2024/vito-culmone-join-stantec-chief-financial-officer",
+          "urlHash": "c8ea2c8eeb3123810fba4a84ac9ad75b3bc6477f",
+          "uuid": "c8ea2c8e-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+          "urlHash": "02c5c5424c3ed63ba0bc114cbecd2363ea4731e6",
+          "uuid": "02c5c542-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-06-e5ba790c48bbd3bed2d8aacba43bc284201d0bf1",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-07-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-07-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-08-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-12-a252e70815cc626d8d92a57176f263d1643fb77c",
+          "xpath": "/html[1]/body[1]/section[1]/div[7]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-06-559599bd9b89d1f234b5c6b46dffd70e1d2c81b5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-09-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-14-7fb096cbe9d4907bde226720db63659b6dc7a86b",
+          "xpath": "/html[1]/body[1]/section[1]/div[11]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-08-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-08-8c91cb8a923c51e363e9b130ad7b35aece79451b",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-08-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-08-f8ab929616f4104cdc9a6d222f1ed2da7d6c32d7",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-03-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-03-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-04-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-03-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-03-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-03-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-03-7477eea39fe1a3bd10cb42425eff787bf3162a0f",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-03-7477eea39fe1a3bd10cb42425eff787bf3162a0f",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-03-7477eea39fe1a3bd10cb42425eff787bf3162a0f",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-03-7477eea39fe1a3bd10cb42425eff787bf3162a0f",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-05-bc59a4c7634655074f1a648372486c9f00b9435f",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/section[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-05-8b187c1823c6b39e3a9d3a4c7d39e9c9fb1fd974",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/section[1]/aside[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-02-4b579978a955f118157ed0c7dcd1183aa187baa2",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-02-4b579978a955f118157ed0c7dcd1183aa187baa2",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-19-07d786f2b85f7deafcfb44ba725ff721fcd1cf79",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[8]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-13-187a64eb5d3a5415eece3293fc48cb4978b24f62",
+          "xpath": "/html[1]/body[1]/section[1]/div[6]/section[1]/div[1]/div[1]/div[2]/ul[1]/li[8]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-10-fa989908ce1be95a4b3d9aea331c0a9e01cef402",
+          "xpath": "/html[1]/body[1]/section[1]/div[5]/div[1]/div[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (social)",
+      "cluster": 25,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-05-f5f91435d745759075a5337e5816a8c4dfcbdd82",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-05-3f5dc7bf9043b20561b8b34bddfb2819e27cfd77",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 26,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-18-52b0176ce19bd33c08854a3f74d1704982f658f4",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+          "urlHash": "13e4e1cce9d8f73107aebb1997e17d89b43a2c17",
+          "uuid": "13e4e1cc-01-25ebbe9440b9d604d20302c74ebc9b36f3da8601",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 28,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-12-285f495ec061cde83eae781134548c5af049d23f",
+          "xpath": "/html[1]/body[1]/section[1]/div[6]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+          "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+          "uuid": "58e25711-02-479844269bdb80690ddaad44feb52bbc6c6c6c7b",
+          "xpath": "/html[1]/body[1]/div[4]/section[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-02-479844269bdb80690ddaad44feb52bbc6c6c6c7b",
+          "xpath": "/html[1]/body[1]/div[4]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 30,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-07-8fcd49de5f138771ccce0ac216b6787f2f25ce8a",
+          "xpath": "/html[1]/body[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-11-1802237b49d30dd4fb671cfb2c7c0ab5f063cb6e",
+          "xpath": "/html[1]/body[1]/section[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 31,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-03-c6f42691f52e10b47eadac26f7b0d88e0fe08a79",
+          "xpath": "/html[1]/body[1]/section[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 32,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+          "urlHash": "02c5c5424c3ed63ba0bc114cbecd2363ea4731e6",
+          "uuid": "02c5c542-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 33,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-01-55899d3fb3c3b8cff0f903240dc1f68b95ae5d0d",
+          "xpath": "/html[1]/body[1]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+          "urlHash": "02c5c5424c3ed63ba0bc114cbecd2363ea4731e6",
+          "uuid": "02c5c542-03-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/sport-events-olympic-games-an-opportunity-to-boost-urban-regeneration",
+          "urlHash": "3de63934d4e0b31ba5df37f816fb65100eb03a1b",
+          "uuid": "3de63934-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-05-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/moment-of-reflection-hse-industrial-projects-covid-19",
+          "urlHash": "8b0c3acd5ad147942ded5c6eca1ff213bb7c7742",
+          "uuid": "8b0c3acd-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 35,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-06-07d8b41bcde045b2aa723f8c8ad1c596c4e41b1b",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-13-f40fe1c5a4d33088ce649d114324c8963f6a3280",
+          "xpath": "/html[1]/body[1]/section[1]/div[8]/div[1]/section[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 37,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexander-matt",
+          "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+          "uuid": "4cf6e8f3-03-1a343a6501618a0bd26e91d492b86149e98f4e30",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 38,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+          "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+          "uuid": "314a6a2f-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 39,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-16-df540a0c33cfc9c22bdcda235d3462b1684b2569",
+          "xpath": "/html[1]/body[1]/section[1]/div[9]/div[1]/div[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 40,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/innovate-during-lockdown-yes-we-can",
+          "urlHash": "02c5c5424c3ed63ba0bc114cbecd2363ea4731e6",
+          "uuid": "02c5c542-02-ac4741031ec74aae7e4e1e3b0e581bc842a34894",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 41,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-08-3a587703aa95f476f5d472afcf66a04e61a7cc24",
+          "xpath": "/html[1]/body[1]/section[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 42,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-05-ab2bfd6f2a15a19ad49af6c01684632d8e6a14f4",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 43,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-06-ab2bfd6f2a15a19ad49af6c01684632d8e6a14f4",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 44,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/gas-stations-of-the-future-will-be-multiservice",
+          "urlHash": "3467b5cbe7255141e3928c3e59efea41bc00d7b7",
+          "uuid": "3467b5cb-02-4b579978a955f118157ed0c7dcd1183aa187baa2",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 45,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-10-c7df94aade72f06ad52f43c083c3d76180c431f4",
+          "xpath": "/html[1]/body[1]/section[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 46,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-09-74e24ae5bfc2edbe7588a4741ab60c8650653449",
+          "xpath": "/html[1]/body[1]/section[1]/div[7]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-04-2a0736f6c48b6f7dfd1a7f8d5bb3624840a4d4b5",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 47,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/news/2024/taoiseach-opens-ryan-hanley-stantec-dublin-office",
+          "urlHash": "437103847182c78bd8cd5c18fec32230c8583e96",
+          "uuid": "43710384-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 48,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+          "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+          "uuid": "3e1fb19c-04-3a22e80054e3e477482c812db65a0c1ae9ff154e",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 49,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-05-ab2bfd6f2a15a19ad49af6c01684632d8e6a14f4",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 50,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+          "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+          "uuid": "eed0a6d8-03-bd0f3cb64b813c40ff632c176a402b1dc719bdf9",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 51,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-05-ab2bfd6f2a15a19ad49af6c01684632d8e6a14f4",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 52,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-06-7fd9d7a68f46c9df3a1b57d37ebe7eccec30b253",
+          "xpath": "/html[1]/body[1]/section[1]/div[4]/section[1]/aside[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 53,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+          "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+          "uuid": "b56d5456-06-74883989c40cc5f105f068790205b688652d8530",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 54,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-10-075b81eb9f663514ee8a1143b3bce1583777f797",
+          "xpath": "/html[1]/body[1]/section[1]/div[7]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 55,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-08-ad1d0f6bfa4f22060b389764266f01916f01aca6",
+          "xpath": "/html[1]/body[1]/section[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 56,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports/projects",
+          "urlHash": "13e4e1cce9d8f73107aebb1997e17d89b43a2c17",
+          "uuid": "13e4e1cc-02-0badfaafe378bf7b270f69a10bded24b9dca9eee",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 57,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+          "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+          "uuid": "0c22f517-05-6c3be1348d9632a8baf1c112d4a6bde4a528182a",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/section[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 58,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-02-4b579978a955f118157ed0c7dcd1183aa187baa2",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 59,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-02-adc147034c5341d97a7e81edc245c70a4bfe17ea",
+          "xpath": "/html[1]/body[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 60,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+          "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+          "uuid": "d4ba9179-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 61,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-16-cc1aa786928c33573fe510995eede459b9a4008c",
+          "xpath": "/html[1]/body[1]/section[1]/div[12]/section[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 62,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+          "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+          "uuid": "4286cdec-05-ab2bfd6f2a15a19ad49af6c01684632d8e6a14f4",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 63,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+          "urlHash": "3c67aa1650f1defd24b85b4c558de520c4f482e5",
+          "uuid": "3c67aa16-02-ac4741031ec74aae7e4e1e3b0e581bc842a34894",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 64,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation",
+          "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+          "uuid": "451ec98f-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+          "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+          "uuid": "8680c195-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+          "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+          "uuid": "caa0ff5a-00-86faf2a5c33b18f965341ec260a96e5fd25e30fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 65,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+          "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+          "uuid": "ba87826c-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+          "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+          "uuid": "d444ca1a-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 66,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/news/2024/vito-culmone-join-stantec-chief-financial-officer",
+          "urlHash": "c8ea2c8eeb3123810fba4a84ac9ad75b3bc6477f",
+          "uuid": "c8ea2c8e-01-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 67,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+          "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+          "uuid": "844a98a0-02-489093775cbfbf249b62076c50c7f452e02b49e9",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 68,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/invisible-enemy-from-asbestos-fibres-to-covid19-managing-risk-on-site",
+          "urlHash": "a3728829c59e29d9985c721fd5402093a257411e",
+          "uuid": "a3728829-02-4b579978a955f118157ed0c7dcd1183aa187baa2",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 69,
+      "instances": [
+        {
+          "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+          "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+          "uuid": "438d41ae-04-cfa0a3fda5b52291c816caa9cc9e108efddc354d",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+      "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+      "uuid": "0c22f517-01-baf03b4226cdd835c0e92fe136d1b92a47f7c5dc",
+      "xpath": "/html[1]/body[1]/div[4]/section[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+      "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+      "uuid": "0c22f517-03-bd0f3cb64b813c40ff632c176a402b1dc719bdf9",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alexandratos-ileana",
+      "urlHash": "0c22f5173c6e6d4b0c6b23238a77c92421a669bd",
+      "uuid": "0c22f517-04-dd1694ca09129408ac94ba42c0d16375cc0a9bb3",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+      "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+      "uuid": "314a6a2f-04-3a22e80054e3e477482c812db65a0c1ae9ff154e",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+      "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+      "uuid": "314a6a2f-05-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fremantle-aquatic-centre",
+      "urlHash": "314a6a2f4ce99b0cd6fac2a45fb9a45ee53a241e",
+      "uuid": "314a6a2f-09-dafca3832694606751766b628b5f6330111d10d2",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/wessex-water-names-stantec-amp8-capital-delivery-partner",
+      "urlHash": "3c67aa1650f1defd24b85b4c558de520c4f482e5",
+      "uuid": "3c67aa16-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+      "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+      "uuid": "3e1fb19c-03-a2a0cc61bfee41ca59c70eaa4206cd6536c5af52",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gawler-river-flood-management-impact-assessment",
+      "urlHash": "3e1fb19c0f6ed594ccb57c069c4a2e818fda52f6",
+      "uuid": "3e1fb19c-05-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/stantec-wins-three-federal-planning-division-awards-apa",
+      "urlHash": "3f778cb736e940759e65326d3d7940e32bef2874",
+      "uuid": "3f778cb7-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+      "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+      "uuid": "4286cdec-04-134b7a11888eaece893f4470b1335c3a16fcb964",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+      "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+      "uuid": "4286cdec-06-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/garden-city-bike-corridor-connection-upgrade",
+      "urlHash": "4286cdec081b78053f86b12ec124238aa20ae9be",
+      "uuid": "4286cdec-10-dafca3832694606751766b628b5f6330111d10d2",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/it/ideas/content/blog/2020/post-covid-19-future-will-rely-on-smart-cities",
+      "urlHash": "438d41ae925f89b10696766b144ac105b99186bf",
+      "uuid": "438d41ae-03-c5db5af96969c144c6199d0b072847d3bbdd3db4",
+      "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation",
+      "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+      "uuid": "451ec98f-04-18ff71db7446ca948a7f0266feab149646f1ef12",
+      "xpath": "/html[1]/body[1]/section[1]/div[4]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation",
+      "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+      "uuid": "451ec98f-11-47ca304a0aa66a9d7871c8a46266b90e1a4977d9",
+      "xpath": "/html[1]/body[1]/section[1]/div[7]/div[1]/div[1]/section[1]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation",
+      "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+      "uuid": "451ec98f-14-2458b32203b9a029c68147e927b7e74d392baee9",
+      "xpath": "/html[1]/body[1]/section[1]/div[8]/div[1]/section[1]/div[1]/div[2]/div[3]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation",
+      "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+      "uuid": "451ec98f-15-337ae9cf2b1014fbd6fb9edeea1e1bbeb65ab011",
+      "xpath": "/html[1]/body[1]/section[1]/div[9]/div[1]/div[1]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation",
+      "urlHash": "451ec98f365e881dddb220490c4673e673f09a28",
+      "uuid": "451ec98f-17-93c3f10afc4a316e35fccb650c815483c38f0db3",
+      "xpath": "/html[1]/body[1]/section[1]/div[10]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alexander-matt",
+      "urlHash": "4cf6e8f393fc53a210229840da7d2331b833d5e8",
+      "uuid": "4cf6e8f3-01-baf03b4226cdd835c0e92fe136d1b92a47f7c5dc",
+      "xpath": "/html[1]/body[1]/div[4]/section[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/vetern-leader-named-growth-leader-stantecs-buildings-practice",
+      "urlHash": "4f0ec1d3da5e92c89ab4f31b63fe8fb11432eaec",
+      "uuid": "4f0ec1d3-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+      "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+      "uuid": "58e25711-01-baf03b4226cdd835c0e92fe136d1b92a47f7c5dc",
+      "xpath": "/html[1]/body[1]/div[4]/section[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+      "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+      "uuid": "58e25711-03-bd0f3cb64b813c40ff632c176a402b1dc719bdf9",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfaqih-laith",
+      "urlHash": "58e25711aea9996a5b72b2e7f07c0f74c62ced50",
+      "uuid": "58e25711-04-c0aa02c9a29b617cb4b6dac98aee916265db609d",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/news/2024/yorkshire-water-storm-overflow-alliance-to-deliver-AMP8-capital-investment-programme",
+      "urlHash": "6a8b094450f347fa0de493ffc2ed9bed93fb2042",
+      "uuid": "6a8b0944-01-1a343a6501618a0bd26e91d492b86149e98f4e30",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+      "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+      "uuid": "844a98a0-03-dafca3832694606751766b628b5f6330111d10d2",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]/div[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+      "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+      "uuid": "844a98a0-05-134b7a11888eaece893f4470b1335c3a16fcb964",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gateway-to-gmh-cycling-corridor",
+      "urlHash": "844a98a0b93f3d5009767460c9d776b89ebc6053",
+      "uuid": "844a98a0-07-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+      "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+      "uuid": "8680c195-04-61d92505de73a38ba5cb3a8c72ce920565aa6a47",
+      "xpath": "/html[1]/body[1]/section[1]/div[4]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+      "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+      "uuid": "8680c195-06-8fcd49de5f138771ccce0ac216b6787f2f25ce8a",
+      "xpath": "/html[1]/body[1]/section[1]/div[5]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+      "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+      "uuid": "8680c195-12-861117edd47e36de3d89ae84b00f934ce765462c",
+      "xpath": "/html[1]/body[1]/section[1]/div[11]/div[1]/div[1]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/action-sports",
+      "urlHash": "8680c19558439019989fc22976e870dc4346bd2f",
+      "uuid": "8680c195-15-66ecae48c3d55a44b2aa25a390b3b802f2a3b9be",
+      "xpath": "/html[1]/body[1]/section[1]/div[12]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+      "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+      "uuid": "b56d5456-01-baf03b4226cdd835c0e92fe136d1b92a47f7c5dc",
+      "xpath": "/html[1]/body[1]/div[4]/section[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+      "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+      "uuid": "b56d5456-03-bd0f3cb64b813c40ff632c176a402b1dc719bdf9",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfirevich-elliot",
+      "urlHash": "b56d5456f0b16b52ef8c87eeae3e5388c178946d",
+      "uuid": "b56d5456-04-c0aa02c9a29b617cb4b6dac98aee916265db609d",
+      "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+      "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+      "uuid": "ba87826c-04-134b7a11888eaece893f4470b1335c3a16fcb964",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gee-gee-bridge",
+      "urlHash": "ba87826cbb30178e2d91e4d605e65e2d29892454",
+      "uuid": "ba87826c-06-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+      "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+      "uuid": "caa0ff5a-07-02ff7b82c069ab020bacb44b413c329878e8b15d",
+      "xpath": "/html[1]/body[1]/section[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+      "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+      "uuid": "caa0ff5a-09-ee6bf9bed8a68c08d90524cf3ead2b0fe7f074fb",
+      "xpath": "/html[1]/body[1]/section[1]/div[5]/div[1]/div[1]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/markets/sports-recreation/ice-aquatics",
+      "urlHash": "caa0ff5ac5b03085bb9a6be538492178bf9edc15",
+      "uuid": "caa0ff5a-11-2fe65b8d51997d25e2e9ce9c43b8be39a35c65f6",
+      "xpath": "/html[1]/body[1]/section[1]/div[6]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+      "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+      "uuid": "d444ca1a-04-134b7a11888eaece893f4470b1335c3a16fcb964",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/g/gardiner-park-sports-field-upgrade",
+      "urlHash": "d444ca1a17dfa0494e8390b44dbbf549fc614aec",
+      "uuid": "d444ca1a-06-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+      "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+      "uuid": "d4ba9179-04-134b7a11888eaece893f4470b1335c3a16fcb964",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[6]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/projects/australia-projects/f/fujitsu-data-centres-melbourne-sydney-and-perth",
+      "urlHash": "d4ba91795817c96d1e0228bbfe59974d16482ea8",
+      "uuid": "d4ba9179-06-b2435d93a12e3e538e30f741ec3206e94d95c758",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[7]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.stantec.com/en/people/a/alfred-cristian",
+      "urlHash": "eed0a6d859026be30f1a03bdbfc2de99dec6c0d1",
+      "uuid": "eed0a6d8-01-baf03b4226cdd835c0e92fe136d1b92a47f7c5dc",
+      "xpath": "/html[1]/body[1]/div[4]/section[1]"
+    }
+  ]
+}
